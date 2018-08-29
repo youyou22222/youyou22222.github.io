@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
+爱打斯诺克的nlp算法工程师,没有什么是一场斯诺克解决不了的问题，如果有，那就两场。
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ywjia1314@gmail.com](mailto:email@domain.com)
